@@ -1,0 +1,95 @@
+[2024-05-18 21:38:51] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-18 21:38:51] [ INFO ] [PacienteDAOH2:23] iniciando la operacion de buscado de un paciente con id : 2
+[2024-05-18 21:38:51] [ INFO ] [DomicilioDAOH2:22] iniciando la busqueda de un domicilio con id: 2
+[2024-05-18 23:47:58] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-18 23:47:58] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-18 23:47:58] [ INFO ] [OdontologoDAOH2:16] Odontologo guardado en Lista: 123
+[2024-05-18 23:54:14] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-18 23:54:14] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-18 23:54:14] [ INFO ] [OdontologoDAOH2:83] Se consultaron odontologos de base de datos.
+[2024-05-18 23:54:14] [ INFO ] [OdontologoDAOH2:16] Odontologo guardado en Lista: 123
+[2024-05-18 23:57:23] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-18 23:57:23] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-18 23:57:23] [ INFO ] [OdontologoDAOH2:83] Se consultaron odontologos de base de datos.
+[2024-05-18 23:57:23] [ INFO ] [OdontologoDAOH2:16] Odontologo guardado en Lista: 123
+[2024-05-18 23:59:24] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-18 23:59:24] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-18 23:59:24] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-18 23:59:24] [ INFO ] [OdontologoDAOH2:83] Se consultaron odontologos de base de datos.
+[2024-05-18 23:59:24] [ INFO ] [OdontologoDAOH2:16] Odontologo guardado en Lista: 123
+[2024-05-19 00:00:04] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-19 00:00:04] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 00:00:04] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 00:00:04] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 00:00:04] [ INFO ] [OdontologoDAOH2:83] Se consultaron odontologos de base de datos.
+[2024-05-19 00:01:09] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-19 00:01:09] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 00:01:09] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 00:01:09] [ INFO ] [OdontologoDAOH2:83] Se consultaron odontologos de base de datos.
+[2024-05-19 00:01:09] [ INFO ] [OdontologoDAOH2:16] Odontologo guardado en Lista: 123
+[2024-05-19 00:02:31] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-19 00:02:31] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 00:02:31] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 00:02:31] [ INFO ] [OdontologoDAOH2:84] Se consultaron odontologos de base de datos.
+[2024-05-19 00:02:31] [ INFO ] [OdontologoDAOH2:16] Odontologo guardado en Lista: 123
+[2024-05-19 00:03:40] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-19 00:03:40] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 00:03:40] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 00:03:40] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 00:03:40] [ INFO ] [OdontologoDAOH2:84] Se consultaron odontologos de base de datos.
+[2024-05-19 00:04:06] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-19 00:04:06] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 00:04:06] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 00:04:06] [ INFO ] [OdontologoDAOH2:84] Se consultaron odontologos de base de datos.
+[2024-05-19 00:04:06] [ INFO ] [OdontologoDAOH2:16] Odontologo guardado en Lista: 123
+[2024-05-19 16:37:49] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-19 16:37:49] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 16:37:49] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 16:37:49] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 16:37:49] [ INFO ] [OdontologoDAOH2:84] Se consultaron odontologos de base de datos.
+[2024-05-19 16:37:49] [ INFO ] [OdontologoDAOHashMap:48] Se consultaron odontologos de Hash
+[2024-05-19 16:38:40] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-19 16:38:40] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 16:38:40] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 16:38:40] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 16:38:40] [ INFO ] [OdontologoDAOH2:84] Se consultaron odontologos de base de datos.
+[2024-05-19 16:38:40] [ INFO ] [OdontologoDAOHashMap:25] Se agregó el odontolog: 123, Juan Palaceto
+[2024-05-19 16:38:40] [ INFO ] [OdontologoDAOHashMap:25] Se agregó el odontolog: 124, Luisa Valencia
+[2024-05-19 16:38:40] [ INFO ] [OdontologoDAOHashMap:25] Se agregó el odontolog: 125, Jorgito Pereyra
+[2024-05-19 16:38:40] [ INFO ] [OdontologoDAOHashMap:48] Se consultaron odontologos de Hash
+[2024-05-19 16:39:09] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-19 16:39:09] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 16:39:09] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 16:39:09] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 16:39:09] [ INFO ] [OdontologoDAOH2:84] Se consultaron odontologos de base de datos.
+[2024-05-19 16:39:09] [ INFO ] [OdontologoDAOHashMap:25] Se agregó el odontolog: 123, Juan Palaceto
+[2024-05-19 16:39:09] [ INFO ] [OdontologoDAOHashMap:25] Se agregó el odontolog: 124, Luisa Valencia
+[2024-05-19 16:39:09] [ INFO ] [OdontologoDAOHashMap:25] Se agregó el odontolog: 125, Jorgito Pereyra
+[2024-05-19 16:39:09] [ INFO ] [OdontologoDAOHashMap:48] Se consultaron odontologos de Hash
+[2024-05-19 16:39:35] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-19 16:39:35] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 16:39:35] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 16:39:35] [ INFO ] [OdontologoDAOH2:84] Se consultaron odontologos de base de datos.
+[2024-05-19 16:39:35] [ INFO ] [OdontologoDAOH2:16] Odontologo guardado en Lista: 123
+[2024-05-19 16:39:35] [ INFO ] [OdontologoDAOHashMap:25] Se agregó el odontolog: 123, Juan Palaceto
+[2024-05-19 16:39:35] [ INFO ] [OdontologoDAOHashMap:48] Se consultaron odontologos de Hash
+[2024-05-19 16:40:57] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-19 16:40:57] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 16:40:57] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 16:40:57] [ INFO ] [OdontologoDAOH2:84] Se consultaron odontologos de base de datos.
+[2024-05-19 16:40:57] [ INFO ] [OdontologoDAOH2:16] Odontologo guardado en Lista: 123
+[2024-05-19 16:40:57] [ INFO ] [OdontologoDAOHashMap:25] Se agregó el odontolog: 123, Juan Palaceto
+[2024-05-19 16:40:57] [ INFO ] [OdontologoDAOHashMap:48] Se consultaron odontologos de Hash
+[2024-05-19 16:51:31] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-19 16:51:31] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 16:51:31] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 16:51:31] [ INFO ] [OdontologoDAOH2:84] Se consultaron odontologos de base de datos.
+[2024-05-19 16:51:31] [ INFO ] [OdontologoDAOH2:16] Odontologo guardado en Lista: 123
+[2024-05-19 16:51:31] [ INFO ] [OdontologoDAOHashMap:48] Se consultaron odontologos de Hash
+[2024-05-19 16:51:53] [ INFO ] [BD:38] tabla creada con exito
+[2024-05-19 16:51:53] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 16:51:53] [ INFO ] [OdontologoDAOH2:31] Odontologo guardado en base de datos: 0
+[2024-05-19 16:51:53] [ INFO ] [OdontologoDAOH2:84] Se consultaron odontologos de base de datos.
+[2024-05-19 16:51:53] [ INFO ] [OdontologoDAOH2:16] Odontologo guardado en Lista: 123
+[2024-05-19 16:51:53] [ INFO ] [OdontologoDAOHashMap:25] Se agregó el odontolog: 123, Juan Palaceto
+[2024-05-19 16:51:53] [ INFO ] [OdontologoDAOHashMap:48] Se consultaron odontologos de Hash
